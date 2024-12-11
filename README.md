@@ -1,6 +1,4 @@
-# haifish-madia
-Haifish-Media is a Python-based tool designed for finding and analyzing people on social media platforms. 
-
+## haifish-madia ##
 Haifish-Media is a Python-based tool designed to streamline the process of finding and analyzing people on social media platforms. Key features include:
 
     Social Name Lookup: Identify individuals by their names across various platforms.
